@@ -6,12 +6,12 @@
     <logo width="200" height="200" unit="px" url="www.gioviannis.com/img/logo.gif"/>
     <address>
       <street>131 Abetti Ridge</street>
-      <city>Ottawa</city>
+      <city>Toronto</city>
       <province>ON </province>
       <postalCode>k2j 0y6</postalCode>
     </address>
     <phone>416-123-4567</phone>
-    <rating min="1" max="5">3</rating>
+    <rating min="1" max="5">5</rating>
     <food_type>Italian</food_type>
     <price min="1" max="5">4</price>
     <review_date>2020-01-10</review_date>
@@ -73,18 +73,18 @@
     <website>www.asiancuisine.com</website>
     <logo width="250" height="250" unit="px" url="www.asiancuisine.com/resouce/images/cuisine.jpg"/>
     <address>
-      <street>1500 brooks Ave</street>
+      <street>1500 Brooks Ave</street> 
       <city>Montreal</city>
-      <province>ON </province>
+      <province>QC</province>
       <postalCode>K2G1Vh</postalCode>
     </address>
     <phone>613-727-4723</phone>
-    <rating min="1" max="5">4</rating>
+    <rating min="1" max="5">2</rating>
     <food_type>Asian</food_type>
     <price min="1" max="5">1</price>
     <review_date>2020-12-03</review_date>
     <reviewer>Brenda P. Smith</reviewer>
-    <summary>The food is always consistent. A good variety of dim sum, sushi, Chinese and even Vietnamese dishes. The service is quick and the food is plentiful. We sat down last night and within seconds of turning in our first order, the plates were on the table! The teriyaki dishes had the right amount of sauce and weren't sickeningly sweet. The chicken, fish, and beef were perfectly cooked. The maki-rolls were neatly rolled, cut properly and seasoned well. Loved the General Tao chicken, the steamed BBQ pork buns, the eel sushi and the lovely eggplant. We will be going back again! I would highly recommend it.</summary>
+    <summary>this is my home address</summary>
     <menu>
       <appetizers>
         <item>
@@ -156,11 +156,11 @@
     <address>
       <street>200 Baker Street</street>
       <city>ottawa</city>
-      <province>ON</province>
+      <province>QC</province>
       <postalCode>s9k 9h7</postalCode>
     </address>
     <phone>613-333-4444</phone>
-    <rating min="1" max="5">5</rating>
+    <rating min="1" max="5">3</rating>
     <food_type>Mexican</food_type>
     <price min="1" max="5">2</price>
     <review_date>2021-01-03</review_date>
